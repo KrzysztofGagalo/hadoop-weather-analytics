@@ -1,0 +1,6 @@
+# course dataset and generated results are not part of the repository
+input/
+*.zip
+wynik_*.tsv
+*.json
+__pycache__/

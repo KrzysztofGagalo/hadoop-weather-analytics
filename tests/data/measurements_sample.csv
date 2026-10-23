@@ -1,0 +1,8 @@
+measurement_id,station_id,measurement_date,temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,condition
+m1,S2,2024-05-03T08:00,10.0,50,60.0,1.0,Stormy
+m2,S1,2024-05-10T05:00,2.0,46,47.0,28.0,Stormy
+m3,S1,2024-06-01T12:00,20.0,40,10.0,0.0,Cloudy
+m4,S1,2024-05-11T09:00,4.0,55,30.0,0.0,Sunny
+broken,line,with,too,few,fields
+m5,S2,2024-05-20T14:00,12.0,61,40.0,3.5,Rainy
+m6,S1,2024-05-25T22:00,9.0,70,55.0,12.0,Stormy
